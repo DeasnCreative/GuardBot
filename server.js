@@ -476,4 +476,4 @@ process.on("unhandledRejection", err => {
     console.error("Yakalanamayan Hata: ", err);
 });
 
-client.login("NzkwNzkyMTM3ODMwNDMyNzY4.X-FwkQ.qw4cWqMTxMkaUK4y0SjVVuYpUqM")
+client.login("token gir dayı")
